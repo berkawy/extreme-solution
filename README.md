@@ -2,7 +2,7 @@
 ## Steps to run:
 ### 1- Clone the repo
 ### 2- run npm install
-### 3- Add a github token in a .env file
+### 3- Add a github token in a .env file in a variable like this VITE_TOKEN="YOUR TOKEN GOES HERE"
 ### 4- Run npm run dev
 
 ## Design:
